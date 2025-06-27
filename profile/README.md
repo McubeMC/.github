@@ -20,5 +20,12 @@ Responsable : MBlevrai
 - <img src="https://github.com/McubeMC/.github/blob/1d19ad65d8530f517cb1551465428835bcc84a64/images/ECv1.png?raw=true" alt="icon" width="20" style="vertical-align: middle;"/> | Mcube
 - <img src="https://github.com/McubeMC/.github/blob/1d19ad65d8530f517cb1551465428835bcc84a64/images/ECv1.png?raw=true" alt="icon" width="20" style="vertical-align: middle;"/> | Mcube Developement
 
+
+## 👥 | Nous soutenir
+Vous pouvez aider MCUBE en allant sur notre patreon ! https://www.patreon.com/mcubemc/
+
+
 ## ©️ | Mentions
 COPYRIGHT © MCUBE 2025  - Tous droits réservés. 
+
+

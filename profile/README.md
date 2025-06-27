@@ -2,7 +2,7 @@
 Bonjour ! Bienvenue sur le github de Mcube ! Tous les programmes et plugins open-source seront stockés ici.
 
 ## ❓ | Qui sommes-nous ?
-Mcube est un projet lancé en 2024 par @MBlevrai et aidé par @Antyle_YT et @LaserMomie. (@bageet (Noéok) à été ajouté au projet pour aider CoralVibes.)
+Mcube est un projet lancé en 2024 par @MBlevrai avec @Antyle_YT et @LaserMomie. @bageet(Noéok) est arrivé lors du lancement de CoralVibes. 
 
 ## 👥 | Mcube team
 Dans la Mcube team, nous avons :

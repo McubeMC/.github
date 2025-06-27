@@ -13,4 +13,5 @@ Dans la Mcube team, nous avons :
 - <img src="https://github.com/McubeMC/.github/blob/main/images/CoralVibes_logo_png.png?raw=true" alt="icon" width="20" style="vertical-align: middle;"/> | CoralVibes
 - 💻 | Mcube Developement
 
+## ©️ | Mentions
 COPYRIGHT © MCUBE 2025  - Tous droits réservés. 

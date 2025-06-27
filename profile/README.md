@@ -10,5 +10,5 @@ Dans la Mcube team, nous avons :
 
 ## 💾 | Nos projets
 - <img src="https://github.com/McubeMC/.github/blob/1d19ad65d8530f517cb1551465428835bcc84a64/images/ECv1.png?raw=true" alt="icon" width="20" style="vertical-align: middle;"/> | Mcube
-- (Logo CoralVibes ou 🏝️) | CoralVibes
+- <img src="https://github.com/McubeMC/.github/blob/main/images/CoralVibes_logo_png.png?raw=true" alt="icon" width="20" style="vertical-align: middle;"/> | CoralVibes
 - 💻 | Mcube Developement

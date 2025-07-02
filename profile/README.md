@@ -22,7 +22,7 @@ Responsable : MBlevrai
 
 
 ## 👥 | Nous soutenir
-Vous pouvez aider MCUBE en allant sur notre patreon ! https://www.patreon.com/mcubemc/
+Vous pouvez soutenir MCUBE en allant sur notre patreon ! https://www.patreon.com/mcubemc/
 
 
 ## ©️ | Mentions

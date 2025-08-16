@@ -1,5 +1,5 @@
 ![mcubelogo](https://github.com/McubeMC/.github/blob/0a3105a678d1e4186f72cb2333d4363a011f25c4/images/mcubegithub.png)
-Bonjour ! Bienvenue sur le github de Mcube ! Tous les créations(plugins, mods, etc...) open-source seront stockées ici.
+Bonjour ! Bienvenue sur le github de Mcube ! Tous les créations(plugins, mods, etc...) open-source seront publiques ici.
 
 ## ❓ | Qui sommes-nous ?
 Mcube est un projet de création d'évènements Minecraft lancé en 2024 par @MBlevrai avec @Antyle_YT et @LaserMomie.

@@ -11,12 +11,7 @@ Mcube est un projet de création d'évènements Minecraft lancé en 2024 par @MB
 - <img src="https://github.com/McubeMC/.github/blob/main/images/CoralVibes_logo_png.png?raw=true" alt="icon" width="20" style="vertical-align: middle;"/> | CoralVibes
 
 
-
-## 👥 | Nous soutenir
-Vous pouvez soutenir MCUBE en allant sur notre patreon ! https://www.patreon.com/mcubemc/
-
-
 ## ©️ | Mentions
-COPYRIGHT © MCUBE 2025  - Tous droits réservés. 
+COPYRIGHT © MCUBE 2026  - Tous droits réservés. 
 
 

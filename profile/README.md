@@ -9,6 +9,9 @@ Mcube est un projet de création d'évènements Minecraft lancé en 2024 par @MB
 - <img src="https://github.com/McubeMC/.github/blob/1d19ad65d8530f517cb1551465428835bcc84a64/images/ECv1.png?raw=true" alt="icon" width="20" style="vertical-align: middle;"/> | Mcube Developement
 - <img src="https://github.com/McubeMC/.github/blob/1d19ad65d8530f517cb1551465428835bcc84a64/images/ECv1.png?raw=true" alt="icon" width="20" style="vertical-align: middle;"/> | Mcube Media
 - <img src="https://github.com/McubeMC/.github/blob/main/images/CoralVibes_logo_png.png?raw=true" alt="icon" width="20" style="vertical-align: middle;"/> | CoralVibes
+## Serveurs :
+[Github](https://github.com/FrameMC) 
+Depuis la restructurisation d'Mcube, la partie serveur est maintenant dans Frame. Les évènements restent dans Mcube.
 
 
 ## ©️ | Mentions
